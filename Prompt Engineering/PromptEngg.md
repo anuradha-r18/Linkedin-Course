@@ -2,7 +2,7 @@
 
 **Getting Started with ChatGPT**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - What We'll Learn About Using ChatGPT
   - ChatGPT vs. Google
@@ -15,7 +15,7 @@
 
 **Prompt Engineering and Best Practices**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Effectively Creating Prompts
   - Article: Github 150+ Prompting Ideas for ChatGPT
@@ -31,7 +31,7 @@
 
 **Advanced Prompting Techniques**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Chain of Thought Prompting
   - Tabular Format Prompting
@@ -48,7 +48,7 @@
 
 **Custom Instructions and Advanced Features**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Custom Instructions Part 1
   - Custom Instructions Part 2
@@ -64,7 +64,7 @@
 
 **DALL-E and Image Generation**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - DALL-E 3: Gen IDs
   - DALL-E 3: Inpainting
@@ -80,7 +80,7 @@
 
 **CustomGPTs and Plugins**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Introduction to Custom GPTs
   - Create Your Own Custom GPT
@@ -98,7 +98,7 @@
 
 **Content Creation and Copywriting**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Articles and Blogs
   - Write and Rephrase
@@ -116,7 +116,7 @@
 
 **Advanced AI Applications in Business**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Case Studies: AI in Finance, Healthcare, and Retail
   - AI Ethics and Governance: Data Privacy and Frameworks
@@ -126,7 +126,7 @@
 
 **Real-World Problem Solving**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Projects: Industry-Specific AI Solutions
   - AI for Business Process Automation and Customer Service
@@ -134,7 +134,7 @@
 
 **Business and Soft Skills Integration**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - AI for Effective Corporate Communication
   - Project Management Tools (Jira, Trello) with AI Integration
@@ -144,7 +144,7 @@
 
 **Data Security and Compliance**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - AI in Cybersecurity: Identifying and Mitigating Risks
   - Regulatory Compliance: AI and Regulations (GDPR, HIPAA)
@@ -152,7 +152,7 @@
 
 **Innovation and Entrepreneurship**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - AI-Driven Innovation: Business Models and Products
   - Entrepreneurial Case Studies: AI Startups
@@ -161,7 +161,7 @@
 
 **Advanced Analytics and Reporting**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Tools for Advanced Data Visualization (Power BI, Tableau)
   - Integrating AI Insights into Business Decisions
@@ -170,7 +170,7 @@
 
 **AI Tools and Applications**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Zapier: Introduction to Automation
   - Zapier: Layout and Interface
@@ -187,7 +187,7 @@
 
 **Exploring Midjourney and Visual AI Tools**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Introduction to AI Image Generation
   - Midjourney V5 Fundamentals
@@ -201,7 +201,7 @@
 
 **Learning Activities**
 <details>
-  <summary></summary>
+  <summary>Expand/Collapse</summary>
 
   - Learning Activity: Create an Ad or Social Media Post
   - Learning Activity: Synthesize Complex Information
