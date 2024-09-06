@@ -4,7 +4,7 @@
 <details>
   <summary>Expand/Collapse</summary>
 
-  - What We'll Learn About Using ChatGPT
+  - Introduction to ChatGPT
   - ChatGPT vs. Google
   - Hub for Important ChatGPT Links (Discord, FAQ, etc.)
   - ChatGPT Layout and Interface 2024
