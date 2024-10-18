@@ -1,4 +1,4 @@
-# Contributing to ytClone
+# Contributing to Linkedin-Course
 
 Thank you for your interest in contributing to [Your Project Name]! We appreciate your help in improving our project. Please follow the guidelines below to ensure a smooth contribution process.
 
