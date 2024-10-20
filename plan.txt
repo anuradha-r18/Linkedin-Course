@@ -143,4 +143,23 @@ ReactJS
 Adv React
 Redux
 NextJS
+• Overview of Next.js 
+• Next.js and other frameworks
+• Setting up a Next.js project and directory structure
+• Dynamic routing and linking component navigation
+• Introduction to Data Fetching (Static Generation,Server-Side Rendering,Client-Side Data Fetching,Incremental Static Regeneration)
+• Styling in Next.js and insights of CSS Modules,Styled JSX,Global styles,Integration with CSS frameworks 
+• Creation, Handling and introduction to API Routes
+• State Management and authentication
+• SEO in Next.js and deployment
+• Testing with Jest and cypress
+• Learning Activity : Real-world Project
+• Conclusion and  Future of Next.js
+
+
+
+
+
+
+
 Three JS
