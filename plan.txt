@@ -141,6 +141,18 @@ Adv JS
 React BTS
 ReactJS
 Adv React
+• React Fundamentals Refresher and intro to concepts of react
+• Intro to Hooks  
+• Performance Optimization and Testing (API)
+• Advanced Patterns and Techniques (Higher-Order Components and Render Props)
+• Setting up TypeScript with React
+• Server-Side Rendering (SSR) and Static Site Generation (SSG)
+• Routing and Navigation : Dynamic and nested 
+• Learning Activity 1: Testing React Applications
+• Integrating GraphQL and react with Other Technologies
+• Progressive Web Apps (PWAs) and Micro-Frontends
+• Learning Activity 2: Real-World Application Development
+• Conclusion: Future Trends and Community Resources in React(Advanced React.js)
 Redux
 NextJS
 Three JS
