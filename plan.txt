@@ -157,6 +157,21 @@ Adv JS
 • Learning Activity 2: Learning about Emerging Technologies
 React BTS
 ReactJS
+• Getting Started with React
+• Fundamentals of React (Components/Props,Understanding JSX syntax,Rendering Elements)
+• Introduction to Hooks and types
+• Routing and Navigation (React Router)
+• Introduction to Redux/state libraries(State Management Solutions)
+• Forms in React and Validation techniques
+• Styling React Applications (CSS)
+• Optimizing Performance (Bottlenecks,React.memo and use.memo)
+• Testing React Applications in Jest, React Testing Library
+• Building and Deploying Applications
+• Integrating APIs and Typescripting with React
+• Advanced Patterns and Techniques (Higher-Order Components)
+• Learning Activity 1 : Real-World Applications
+• Overview and Conclusion to ReactJS
+• Learning Activity 2 : Overview of popular libraries and Community resources 
 Adv React
 Redux
 NextJS
