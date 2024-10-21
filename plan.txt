@@ -138,9 +138,53 @@ HTML
 CSS
 JS
 Adv JS
+• Intro to Advanced Functions and Scope
+• Understanding Asynchronous JavaScript and Managing concurrency 
+• Introduction to JavaScript Prototypes and Inheritance
+• JavaScript Modules and Patterns
+• Functional Programming in JavaScript
+• Error Handling and Debugging Techniques
+• Design Patterns in JavaScript
+• Event Handling and the DOM
+• Working with APIs and REST,GraphQL
+•  Advanced Data Structures including Arrays
+• Understanding Modern JavaScript
+• Secure coding practices inclusive of SQL injections
+• Testing and Quality Assurance in Javascript
+• Web Performance Optimization
+• Typescript and interfaces
+• Learning Activity 1: Real-World Project (Building a full-stack application using advanced JS)
+• Learning Activity 2: Learning about Emerging Technologies
 React BTS
 ReactJS
+• Getting Started with React
+• Fundamentals of React (Components/Props,Understanding JSX syntax,Rendering Elements)
+• Introduction to Hooks and types
+• Routing and Navigation (React Router)
+• Introduction to Redux/state libraries(State Management Solutions)
+• Forms in React and Validation techniques
+• Styling React Applications (CSS)
+• Optimizing Performance (Bottlenecks,React.memo and use.memo)
+• Testing React Applications in Jest, React Testing Library
+• Building and Deploying Applications
+• Integrating APIs and Typescripting with React
+• Advanced Patterns and Techniques (Higher-Order Components)
+• Learning Activity 1 : Real-World Applications
+• Overview and Conclusion to ReactJS
+• Learning Activity 2 : Overview of popular libraries and Community resources 
 Adv React
+• React Fundamentals Refresher and intro to concepts of react
+• Intro to Hooks  
+• Performance Optimization and Testing (API)
+• Advanced Patterns and Techniques (Higher-Order Components and Render Props)
+• Setting up TypeScript with React
+• Server-Side Rendering (SSR) and Static Site Generation (SSG)
+• Routing and Navigation : Dynamic and nested 
+• Learning Activity 1: Testing React Applications
+• Integrating GraphQL and react with Other Technologies
+• Progressive Web Apps (PWAs) and Micro-Frontends
+• Learning Activity 2: Real-World Application Development
+• Conclusion: Future Trends and Community Resources in React(Advanced React.js)
 Redux
 NextJS
 • Overview of Next.js 
@@ -155,11 +199,3 @@ NextJS
 • Testing with Jest and cypress
 • Learning Activity : Real-world Project
 • Conclusion and  Future of Next.js
-
-
-
-
-
-
-
-Three JS
