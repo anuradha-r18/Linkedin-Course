@@ -138,6 +138,23 @@ HTML
 CSS
 JS
 Adv JS
+• Intro to Advanced Functions and Scope
+• Understanding Asynchronous JavaScript and Managing concurrency 
+• Introduction to JavaScript Prototypes and Inheritance
+• JavaScript Modules and Patterns
+• Functional Programming in JavaScript
+• Error Handling and Debugging Techniques
+• Design Patterns in JavaScript
+• Event Handling and the DOM
+• Working with APIs and REST,GraphQL
+•  Advanced Data Structures including Arrays
+• Understanding Modern JavaScript
+• Secure coding practices inclusive of SQL injections
+• Testing and Quality Assurance in Javascript
+• Web Performance Optimization
+• Typescript and interfaces
+• Learning Activity 1: Real-World Project (Building a full-stack application using advanced JS)
+• Learning Activity 2: Learning about Emerging Technologies
 React BTS
 ReactJS
 Adv React
