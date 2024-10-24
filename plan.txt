@@ -136,6 +136,19 @@ Learning Activities (10 minutes)
 Git and GitHub
 HTML
 CSS
+• CSS basics like selectors,properties,box model and units etc.
+• introducing styling text like fonts,typography, text-alignment, decoration, line-height etc.
+• introducing layout techniques
+• learning responsives designs like media queries, mobile first designs, viewports units.
+• learning advanced selectors like pseudo-classes and elements, attribute selectors.
+• transitions and animations like CSS, keyframe, transformations etc. 
+• intro CSS preprocessors(SASS or LESS,nesting.).
+• browser compatibility.
+• CSS frameworks.
+• Accessibility(CSS techniques for enchancing accessibity).
+• CSS variables like custom properties and theming.
+• 'best practices and some projects.
+
 JS
 Adv JS
 • Intro to Advanced Functions and Scope
