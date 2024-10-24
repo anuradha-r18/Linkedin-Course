@@ -137,6 +137,24 @@ Git and GitHub
 HTML
 CSS
 JS
+• introduction to basics of JS like data types,variables,operators and functions.
+• Advanced JS like closures,prototypal inheritance, ES6 features.
+• introduction to object oriented programming.
+• DOM manipulation
+• introduction to browser API's.
+• javascripts frameworks and libraries.
+• learning testing and debugging(unit testing eith jest or mocha,end-to-end testing)
+• perfomance optimization.
+• security best practices.
+• build tools and package management.
+• type script.
+• modern JS development.
+• API and Microservices.
+• server-side javascript.
+• web assembly and progressive web apps.
+• real time applications.
+• common patterns and best practices.
+• building some final projects.
 Adv JS
 • Intro to Advanced Functions and Scope
 • Understanding Asynchronous JavaScript and Managing concurrency 
