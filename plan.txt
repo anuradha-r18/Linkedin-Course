@@ -135,6 +135,16 @@ Learning Activities (10 minutes)
 
 Git and GitHub
 HTML
+• Introduction to the basic structure of HTML document(<html>,<head> and <body>).
+• Learning text elements like Headings, paragraphs, Emphasis(<strong>,<em>), lists etc.
+• learning about Images and Multimedia.
+• learning to create tables and table attributes(border,rowspan,colspan).
+• Learning Forms and Input elements.
+• Intro to Semantic HTML (<header>, <footer>, <article>, <section>, <aside>).
+• Learning Responsive design Basics like using viewport meta tag and intro to media queries.
+• Learning accessibility best practices(ARIA roles,Alt text for images, keyboard,navigation)
+• Do best practices and standards.
+
 CSS
 JS
 Adv JS
