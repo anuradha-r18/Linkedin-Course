@@ -225,3 +225,8 @@ Performance Optimization (Minification, Critical CSS)
 Accessibility Best Practices
 BEM Methodology (Block Element Modifier)
 Emerging Standards (CSS Grid, Houdini)
+.)Integrating CSS with HTML and JavaScript(Inline HTML and Inline JavaScript)
+.)Difference between Class and id and how we can style our data using them.
+.)Understanding Shadow DOM and scoped styles.
+.)Implementing themes (dark/light mode)
+.)Tips for minimizing the file size of CSS
