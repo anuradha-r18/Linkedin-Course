@@ -163,7 +163,7 @@ JS
 • introduction to basics of JS like data types,variables,operators and functions.
 • Advanced JS like closures,prototypal inheritance, ES6 features.
 • introduction to object oriented programming.
-• DOM manipulation
+• DOM manipulation.
 • introduction to browser API's.
 • javascripts frameworks and libraries.
 • learning testing and debugging(unit testing eith jest or mocha,end-to-end testing)
