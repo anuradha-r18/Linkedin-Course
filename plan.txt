@@ -134,6 +134,20 @@ Learning Activities (10 minutes)
 • Learning Activity: AI-Driven Project Management - 2 minutes (New)
 
 Git and GitHub
+• Introduction to version control.
+• Understanding git directory structure.
+• Learning basic git commands.
+• Understanding branching and merging.
+• Learning all remote repositories.
+• Learning GitHub fundamentals.
+• Do collaroration with git and GitHub.
+• Understanding advanced git concepts(git stash, git revert, git reset, using tags etc.).
+• Git workflows.
+• Learning GitHub features.
+• Learning and solving troubleshooting common issues.
+• Do best practice, tips and continue learning through git and GitHub communities.
+
+
 HTML
 CSS
 JS
