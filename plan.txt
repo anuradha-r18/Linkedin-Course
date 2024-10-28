@@ -141,11 +141,11 @@ Git and GitHub
 • Learning all remote repositories.
 • Learning GitHub fundamentals.
 • Do collaroration with git and GitHub.
-• Understanding advanced git concepts(git stash, git revert, git reset, using tags etc.).
+• Understanding advanced git concepts(git stash, git revert, git reset, using tags etc.
 • Git workflows.
 • Learning GitHub features.
 • Learning and solving troubleshooting common issues.
-• Do best practice, tips and continue learning through git and GitHub communities.
+• Do best practice,tips and continue learning through git and GitHub communities.
 
 
 HTML
